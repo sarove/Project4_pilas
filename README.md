@@ -180,6 +180,9 @@ print(decimal_a_binario(42))      # 101010
 
 ## 👤 Autor
 
-Proyecto académico — UAO
-Curso de Estructuras de Datos y Algoritmos 1
-Contacto docente: jdmarquez@uao.edu.co
+- **Curso:** Estructuras de Datos y Algoritmos 1
+- **Semana:** 5 — Colas (Queues)
+- **Estudiante:** Salvador Rodriguez —Jorge Luis Velasquez- Universidad Autónoma de Occidente (UAO)
+- **Contacto:** salvador.rodriguez_v@uao.edu.co, Jorge_luis.velasquez@uao.edu.co
+
+---
