@@ -181,7 +181,7 @@ print(decimal_a_binario(42))      # 101010
 ## 👤 Autor
 
 - **Curso:** Estructuras de Datos y Algoritmos 1
-- **Semana:** 5 — Colas (Queues)
+- **Semana:** 5 — Pilas (Stacks)
 - **Estudiante:** Salvador Rodriguez —Jorge Luis Velasquez- Universidad Autónoma de Occidente (UAO)
 - **Contacto:** salvador.rodriguez_v@uao.edu.co, Jorge_luis.velasquez@uao.edu.co
 
